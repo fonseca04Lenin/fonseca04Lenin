@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm Elvin Fonseca</h1>
+<h1 align="center">Hi, I'm Elvin Fonseca</h1>
 
 <p align="center">
-  <b>Computer Science & Artificial Intelligence Student @ University of Nebraska Omaha</b><br/>
-  Full-Stack Engineer · Systems Builder · AI Enthusiast
+  <b>Software Engineer · Full-stack & real-time systems · Fintech</b><br/>
+  B.S. Computer Science + B.S. Artificial Intelligence @ University of Nebraska Omaha · graduating December 2026
 </p>
 
 <p align="center">
@@ -11,40 +11,33 @@
   <a href="mailto:Leninfonseca04@gmail.com">Email</a>
 </p>
 
----
-
-## About Me
-
-I'm a dual-degree **B.S. Computer Science + B.S. Artificial Intelligence** student at UNO (graduating Fall 2026), passionate about building software that performs at scale — from real-time financial platforms to high-performance systems in Rust.
-
-I've shipped production code at **Mutual of Omaha** (life insurance platforms serving 19M+ customers) and co-launched a cross-platform app at **Take2** with 3,000+ iOS users. I love working across the full stack and diving deep into systems programming and AI-driven tooling.
-
-- Dual B.S. CS + AI @ University of Nebraska Omaha — **Fall 2026**
-- Full-Stack Intern @ **Mutual of Omaha** (Laravel, Vue.js, PHP)
-- Full-Stack Intern @ **Take2** (React Native, TypeScript, Firebase)
-- Building an **automated trading webhook** in Rust with Axum + Alpaca Markets API
-- Developing a **real-time stock watchlist** with React, Flask, WebSockets & Google Gemini AI
-- Built an **AI formatting tool** for DLR Group (Azure OpenAI + Python/Pandas — 99% faster)
+<p align="center"><i>Looking for new-grad Software Engineer roles starting January 2027 · open to relocating (Chicago, Dallas, New York, SF, Seattle)</i></p>
 
 ---
 
-## Goals
+## What I've built at work
 
-- Graduate Fall 2026 and step into a senior full-stack or systems engineering role
-- Deepen expertise in **Rust**, **distributed systems**, and **AI-integrated applications**
-- Keep shipping real projects that solve real problems — finance, AI, and beyond
+- **Election Systems & Software** (Software Engineer Intern, 2026): built an ASP.NET Core + SignalR API that connects an Angular app to a headless hardware print agent, with a real-time print-job lifecycle, heartbeat monitoring, and OAuth 2.0/JWT security, all the way to physical ballot printing.
+- **Mutual of Omaha** (Software Engineer Intern, 2025): shipped Laravel/Vue features on life insurance platforms serving a 19M+ customer base, and migrated a reviews service to the Yext API with caching and unit tests.
+- **Take2** (Software Engineer Intern, startup, 2024–25): helped launch a React Native + Firebase app to 3,000+ iOS users and improved backend performance by 30%.
 
----
+## Projects worth a look
 
-## Tech Stack
+| Project | What it is | Stack |
+|---|---|---|
+| [**alpaca-webhook-rs**](https://github.com/fonseca04Lenin/alpaca-webhook-rs) | Async server that turns TradingView strategy alerts into Alpaca orders | Rust, Axum, Tokio |
+| [**Stock Watchlist**](https://github.com/fonseca04Lenin/Project-2) · [live](https://stock-watchlist-frontend.vercel.app) | Real-time stock tracker with WebSocket prices, alerts, and LLM market analysis | React, TypeScript, Flask, Firebase |
+| [**sma-crossover-trading-bot**](https://github.com/fonseca04Lenin/sma-crossover-trading-bot) | Scheduled bot that trades a 20/50-day moving-average crossover on a paper account, with an audit log | Python, pandas, Alpaca API |
+| [**peer-service-marketplace**](https://github.com/fonseca04Lenin/peer-service-marketplace) | Team capstone (6 people): book and pay for local services, with escrow-style payments | React, Django REST, AWS EC2, Selenium |
+| [**TransformerNLP**](https://github.com/fonseca04Lenin/TransformerNLP) | Fine-tuned BERT vs. DistilBERT on IMDB sentiment: 92.4% vs. 91.4% accuracy, with DistilBERT at 39% fewer parameters | Python, TensorFlow, Hugging Face |
+| [**UV Index**](https://github.com/fonseca04Lenin/UV-Index-Web-Project) · [live](https://uv-index-web-project.vercel.app) | Pixel-art UV index and 7-day forecast based on your location | Next.js, Flask |
 
-**Languages:** JavaScript · TypeScript · Python · Rust · C · HTML5 · CSS3
+## Tech I use
 
-**Frameworks:** React · React Native · Flask · Vue.js · Laravel · Node.js · Pandas
-
-**Databases:** PostgreSQL · MongoDB · Firebase
-
-**Tools:** Docker · GCP · Git · CI/CD · WebSockets · Postman · Linux · Jira
+**Languages:** Python · TypeScript/JavaScript · C# · Rust · C · SQL · PHP
+**Backend & real-time:** ASP.NET Core · SignalR · Flask · Django REST · Node.js · Axum · WebSockets
+**Frontend:** React · Angular · Vue.js · React Native
+**Data, cloud & tools:** PostgreSQL · Firebase · SQLite · Docker · AWS · GCP · GitHub Actions · Linux
 
 ---
 
@@ -54,26 +47,8 @@ I've shipped production code at **Mutual of Omaha** (life insurance platforms se
   <img src="/github-metrics.svg" alt="GitHub Metrics">
 </picture>
 
-### Isometric Commit Calendar
-
-<picture>
-  <img src="/github-isocalendar.svg" alt="Isometric Commit Calendar">
-</picture>
-
 ### Languages Activity
 
 <picture>
   <img src="/github-languages.svg" alt="Languages Activity">
-</picture>
-
-### Starred Topics
-
-<picture>
-  <img src="/github-topics.svg" alt="Starred Topics">
-</picture>
-
-### Coding Habits & Activity
-
-<picture>
-  <img src="/github-habits.svg" alt="Coding Habits and Activity">
 </picture>
